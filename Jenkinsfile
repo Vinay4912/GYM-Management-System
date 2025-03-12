@@ -2,10 +2,6 @@ pipeline {
     agent any 
  
     environment { 
-        GIT_REPO = 'pipeline { 
-    agent any 
- 
-    environment { 
         GIT_REPO = 'https://github.com/Vinay4912/GYM-Management-System.git' 
         BRANCH = 'main' 
     } 
